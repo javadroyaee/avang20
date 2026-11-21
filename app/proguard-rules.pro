@@ -1,0 +1,2 @@
+-keep class ir.jrweb.avangvpn.** { *; }
+-keep class io.nekohasekai.** { *; }
